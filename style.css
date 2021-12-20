@@ -1,4 +1,9 @@
-p{
-    color: aqua;
-    background-color: brown;
+p {
+    color: cyan;
+    background-color: darkmagenta;
+}
+
+#ids {
+display: block;
+background-color: darkred;
 }
