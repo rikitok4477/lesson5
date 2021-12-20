@@ -7,3 +7,19 @@ p {
 display: block;
 background-color: darkred;
 }
+
+.class {
+color: hotpink;
+text-decoration-line: underline;
+
+}
+
+.s1 {
+color: lightgreen;
+text-decoration-line: overline;
+}
+
+.s2 {
+text-decoration-style: wavy;
+
+}
